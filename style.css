@@ -1,0 +1,42 @@
+body {
+    font-family: Arial;
+    background-color: #ff8e8e;
+}
+
+.container {
+    width: 350px;
+    margin: 100px auto;
+    padding: 25px;
+    background-color: rgb(250, 176, 176);
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+#hasil {
+    margin-top: 20px;
+    padding: 10px;
+}
